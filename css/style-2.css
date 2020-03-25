@@ -1,0 +1,26 @@
+.nav-bar {
+  background-color: navy;
+  color: white;
+}
+
+#logo {
+  font-size: 40px;
+  margin-right: 100px;
+}
+
+.items {
+  display: inline-block;
+  font-size: 20px;
+}
+
+.items span {
+  margin-right: 30px;
+}
+
+.dropdown-menu {
+  background-color: teal;
+  display: inline-block;
+  list-style: none;
+  padding: 0;
+  padding: 10px;
+}
